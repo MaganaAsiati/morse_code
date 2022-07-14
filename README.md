@@ -1,28 +1,35 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # curriculum-Ruby
 
-## Project
+## Morse code
 
 - Morse code app is used to decode hash values into readable text
 
 ## Build
 
 - built with Ruby
+### Setup
 
+- Clone the project
+```terminal
+git clone <repo link>
+```
 
-
+- cd into the project directory
+```terminal
+cd <local folder>
+```
 ## Authors
 
 👤 **Cédric Kossi**
 
-- GitHub: [@kosher9](https://github.com/kosher9)
-- Twitter: [@kosherus](https://twitter.com/kosherus)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/lionel-c%C3%A9dric-kossi-323042172)
+👤 **Magana Mwinja Asiati**
 
-👤 **Misheck Livingi**
+- GitHub: [@MaganaAsiati ](https://github.com/MaganaAsiati)
+- Twitter: [@asia_magana](https://twitter.com/asia_magana)
+- LinkedIn: [Asia Magana](https://www.linkedin.com/in/asia-magana-60b451200/)
 
-- GitHub: [@githubhandle](https://github.com/misheck12)
-- Twitter: [@twitterhandle](https://twitter.com/mishecklivingi2)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/misheck-livingi-a0b536142/)
 
 ## 🤝 Contributing
 
