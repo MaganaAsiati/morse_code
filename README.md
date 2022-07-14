@@ -13,7 +13,7 @@
 
 - Clone the project
 ```terminal
-git clone <repo link>
+git clone < https://github.com/MaganaAsiati/morse_code.git >
 ```
 
 - cd into the project directory
@@ -21,8 +21,6 @@ git clone <repo link>
 cd <local folder>
 ```
 ## Authors
-
-👤 **Cédric Kossi**
 
 👤 **Magana Mwinja Asiati**
 
