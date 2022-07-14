@@ -42,21 +42,13 @@ def morse_to_alpha_map
   @alpha_to_morse.invert
 end
 
-def morse_to_alpha_uppercase(str)
+def morse_to_alpha_char(str)
   morse_to_alpha_map[str].upcase
 end
 
 
-
-
-
-
-
-
-
-
-
-
-
+def decode_word(str)
+  str.split.map { |char| decode_char(char) }.join
+end
 
 
