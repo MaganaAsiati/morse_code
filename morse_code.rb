@@ -38,12 +38,9 @@
   ' ' => '/'
 }
 
-
 def decode_char(character)
-  for x in @alpha_to_morse.keys
-      if @alpha_to_morse[x] == character;
-          return x;
-      end
+  @alpha_to_morse.keys.each do |x|
+    return x if @alpha_to_morse[x] == character
   end
 end
 
@@ -62,6 +59,5 @@ end
 def morse_to_alpha(str)
   str.split('   ').map { |word| decode_word(word) }.join(' ')
 end
-
 
 puts(morse_to_alpha('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'))
