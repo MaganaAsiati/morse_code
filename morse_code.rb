@@ -38,3 +38,22 @@
   ' ' => '/'
 }
 
+def morse_to_alpha_map
+  @alpha_to_morse.invert
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
