@@ -22,13 +22,16 @@ cd <local folder>
 ```
 ## Authors
 
-👤 **Cédric Kossi**
-
 👤 **Magana Mwinja Asiati**
 
 - GitHub: [@MaganaAsiati ](https://github.com/MaganaAsiati)
 - Twitter: [@asia_magana](https://twitter.com/asia_magana)
 - LinkedIn: [Asia Magana](https://www.linkedin.com/in/asia-magana-60b451200/)
+
+👤 **Assad Isah**
+
+- GitHub: [@nottherealalanturing](https://github.com/nottherealalanturing)
+- LinkedIn: [Assad Isah](https://www.linkedin.com/in/assadisah/)
 
 
 ## 🤝 Contributing
