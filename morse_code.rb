@@ -53,7 +53,7 @@ def morse_to_alpha_char(str)
 end
 
 def decode_word(str)
-  str.split.map { |char| decode_char(char) }.join
+  str.split.map { |char| morse_to_alpha_char(char) }.join
 end
 
 def morse_to_alpha(str)
